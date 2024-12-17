@@ -28,8 +28,8 @@
     },
     "PREFIX": {
       "description": "put any one symbol here except @ and + , leave it Blank if you want to use multiple prefix",
-      "required": false,
-      "value": ""
+      "required": true,
+      "value": "."
     },
     "antidelete": {
       "description": "bot will forward deleted messages if you make it true",
@@ -80,7 +80,7 @@
     "SESSION_ID": {
       "description": "put your session ID here in the box below",
       "required": true,
-      "value": ""
+      "value": "Prince~x9oXRQ6D#YTHx4Ns79gym5fIDZRpwrwbxlIBFNDT1LrMjIeXNo90"
     }
   },
   "buildpacks": [
